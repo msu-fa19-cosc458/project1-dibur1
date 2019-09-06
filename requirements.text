@@ -1,0 +1,6 @@
+flask
+os
+requests
+json
+random
+tweepy
