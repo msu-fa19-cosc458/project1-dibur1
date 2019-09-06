@@ -14,3 +14,5 @@ What are known problems, if any, with your project?
 the tweets do not change so i have it display multiple
 What would you do to improve your project in the future?
 I would like to style it and get the tweets displaying and changing correctly
+
+i also would format my readme better 
